@@ -1,1 +1,1 @@
-# Stimulation-Modeling-NewspaperSellerSimulation
+# Simulation-Modeling-NewspaperSellerSimulation
